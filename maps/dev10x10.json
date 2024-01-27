@@ -1,0 +1,14 @@
+{
+  "map": [
+    ["mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "start", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "empty", "mount"],
+    ["mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount", "mount"]
+  ]
+}
