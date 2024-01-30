@@ -1,5 +1,5 @@
 /*
-a
-s
-r
-t
+left  = "a";
+down  = "s";
+up    = "r";
+right = "t";
