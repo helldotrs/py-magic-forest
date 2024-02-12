@@ -1,10 +1,15 @@
 # d - dark
 # p - player
+# m - mountain
+# e - enemy
+# t - treasure
 
 # map1
-# ddd dpd ddd
-# ddd ddd ddd
-# ddd ddd ddd
+# m mmm mmm mmm m
+# m tdd dpd ddd m
+# m ddd ddd ddd m
+# m ddd ded ddd m
+# m mmm mmm mmm m
 
 #qwerty layout:
 # QWERT   YUIOP
