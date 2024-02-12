@@ -17,11 +17,12 @@
 #   ZXCVB   NM
 
 # qwerty keymap:
-# movement: asdf
 # map: q
 # inventory: w
 # attack: e
 # magic: r
+# movement: asdf
+
 
 class Player(self):
   self.pos_x = 1
