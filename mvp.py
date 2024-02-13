@@ -27,3 +27,8 @@
 class Player(self):
   self.pos_x = 1
   self.pos_y = 1
+
+#main loop
+while True:
+  print(current_map)
+  input_var = input("input:")
