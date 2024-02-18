@@ -23,6 +23,15 @@
 # magic: r
 # movement: asdf
 
+map  = [
+          [],
+          [],
+          [],
+          [],
+          []
+]
+  
+
 
 class Player(self):
   self.pos_x = 1
