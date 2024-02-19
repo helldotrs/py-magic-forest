@@ -24,11 +24,11 @@
 # movement: asdf
 
 map  = [
+          [m mmm mmm mmm m],
           [],
           [],
           [],
-          [],
-          []
+          [m mmm mmm mmm m]
 ]
   
 
